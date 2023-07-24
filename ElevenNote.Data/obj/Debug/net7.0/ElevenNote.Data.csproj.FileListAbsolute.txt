@@ -1,0 +1,12 @@
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Data\bin\Debug\net7.0\ElevenNote.Data.deps.json
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Data\bin\Debug\net7.0\ElevenNote.Data.dll
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Data\bin\Debug\net7.0\ElevenNote.Data.pdb
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Data\obj\Debug\net7.0\ElevenNote.Data.csproj.AssemblyReference.cache
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Data\obj\Debug\net7.0\ElevenNote.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Data\obj\Debug\net7.0\ElevenNote.Data.AssemblyInfoInputs.cache
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Data\obj\Debug\net7.0\ElevenNote.Data.AssemblyInfo.cs
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Data\obj\Debug\net7.0\ElevenNote.Data.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Data\obj\Debug\net7.0\ElevenNote.Data.dll
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Data\obj\Debug\net7.0\refint\ElevenNote.Data.dll
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Data\obj\Debug\net7.0\ElevenNote.Data.pdb
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Data\obj\Debug\net7.0\ref\ElevenNote.Data.dll

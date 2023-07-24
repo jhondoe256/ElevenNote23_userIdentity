@@ -1,0 +1,15 @@
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Models\bin\Debug\net7.0\ElevenNote.Models.deps.json
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Models\bin\Debug\net7.0\ElevenNote.Models.dll
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Models\bin\Debug\net7.0\ElevenNote.Models.pdb
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Models\bin\Debug\net7.0\ElevenNote.Data.dll
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Models\bin\Debug\net7.0\ElevenNote.Data.pdb
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Models\obj\Debug\net7.0\ElevenNote.Models.csproj.AssemblyReference.cache
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Models\obj\Debug\net7.0\ElevenNote.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Models\obj\Debug\net7.0\ElevenNote.Models.AssemblyInfoInputs.cache
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Models\obj\Debug\net7.0\ElevenNote.Models.AssemblyInfo.cs
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Models\obj\Debug\net7.0\ElevenNote.Models.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Models\obj\Debug\net7.0\ElevenNote.Models.csproj.CopyComplete
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Models\obj\Debug\net7.0\ElevenNote.Models.dll
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Models\obj\Debug\net7.0\refint\ElevenNote.Models.dll
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Models\obj\Debug\net7.0\ElevenNote.Models.pdb
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Models\obj\Debug\net7.0\ref\ElevenNote.Models.dll

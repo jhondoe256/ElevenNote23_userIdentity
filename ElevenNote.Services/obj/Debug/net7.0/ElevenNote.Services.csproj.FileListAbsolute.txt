@@ -1,0 +1,17 @@
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Services\bin\Debug\net7.0\ElevenNote.Services.deps.json
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Services\bin\Debug\net7.0\ElevenNote.Services.dll
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Services\bin\Debug\net7.0\ElevenNote.Services.pdb
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Services\bin\Debug\net7.0\ElevenNote.Data.dll
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Services\bin\Debug\net7.0\ElevenNote.Models.dll
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Services\bin\Debug\net7.0\ElevenNote.Models.pdb
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Services\bin\Debug\net7.0\ElevenNote.Data.pdb
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Services\obj\Debug\net7.0\ElevenNote.Services.csproj.AssemblyReference.cache
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Services\obj\Debug\net7.0\ElevenNote.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Services\obj\Debug\net7.0\ElevenNote.Services.AssemblyInfoInputs.cache
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Services\obj\Debug\net7.0\ElevenNote.Services.AssemblyInfo.cs
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Services\obj\Debug\net7.0\ElevenNote.Services.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Services\obj\Debug\net7.0\ElevenNote.Services.csproj.CopyComplete
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Services\obj\Debug\net7.0\ElevenNote.Services.dll
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Services\obj\Debug\net7.0\refint\ElevenNote.Services.dll
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Services\obj\Debug\net7.0\ElevenNote.Services.pdb
+C:\ElevenFiftyBlueBadge165\ElevenNote_InstWalkthrough\ElevenNote.Services\obj\Debug\net7.0\ref\ElevenNote.Services.dll
